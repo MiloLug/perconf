@@ -5,11 +5,13 @@ A small utility to work with percentage configuration (volume, brightness etc.).
 It can be used to create some system UI, based on scripts and outputs of other programs.
 
 ## Compilation Requirements
-```
+
+```sh
 make clang 
 ```
 
 ## Build & Install
+
 ```sh
 # run:
 make build
@@ -17,6 +19,7 @@ sudo make install
 ```
 
 ## Help
+
 ```sh
 Usage: perconf [flags]
 Flags:
