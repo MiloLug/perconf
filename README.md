@@ -22,6 +22,7 @@ sudo make install
 
 ```sh
 Usage: perconf [flags]
+
 Flags:
     --help        - display help
     -m <number>   - minimum (including)

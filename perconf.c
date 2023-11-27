@@ -24,7 +24,7 @@ void read_number(const char * file_name, double * out) {
 
 void print_help(void) {
     printf(
-        C_BLUE "Usage:" C_RESET " perconf [flags]\n"
+        C_BLUE "Usage:" C_RESET " perconf [flags]\n\n"
         C_GREEN "Flags:\n" C_RESET
         "    --help        - display help\n"
         "    -m <number>   - minimum (including)\n"
